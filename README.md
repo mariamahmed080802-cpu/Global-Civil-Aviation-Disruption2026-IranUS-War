@@ -2,11 +2,16 @@
 
 <img width="1301" height="735" alt="image" src="https://github.com/user-attachments/assets/616bb0db-46d2-4937-aae8-35d3ae27aa02" />
 
+---
 <img width="1317" height="733" alt="image" src="https://github.com/user-attachments/assets/268efd30-13b2-44ad-b01a-56a9889a09c6" />
 
+---
 <img width="1308" height="738" alt="image" src="https://github.com/user-attachments/assets/7b9f3364-4ddb-4dff-90db-8799dbc595a6" />
 
+---
 <img width="1530" height="723" alt="image" src="https://github.com/user-attachments/assets/80908af0-99e8-4ab9-8eb7-24ad9ed29ff3" />
+
+---
 
 ## Introduction
 
@@ -41,13 +46,13 @@ Military conflicts in strategic regions can cause severe disruptions to civil av
 ### Severity Analysis
 - **Critical Disruptions**: 33% of flights (5,280 flights) - complete airspace closures
 - **Severe Disruptions**: 29% of flights (4,658 flights) - major rerouting required
-- **Peak Day Impact**: March 8-9 saw 1,200 flights disrupted per day
+- **Peak Day Impact**: March 6 saw 1,200 flights disrupted
 
 ### Regional Vulnerability
-- **UAE**: $2.7 billion in losses (32% of total) - Dubai and Abu Dhabi hubs most exposed
-- **Kuwait**: $1.2 billion in losses (14% of total) - small market with high exposure
-- **Iran**: $1.0 billion in losses (12% of total) - conflict epicenter
-- **Top Affected Airports**: Istanbul (1,300 flights), Abu Dhabi (1,200 flights), Tehran Mehrabad (1,100 flights)
+- **UAE**: $3.3 billion in losses - Dubai and Abu Dhabi hubs most exposed
+- **Kuwait**: $1.3 billion in losses - small market with high exposure
+- **Iran**: $1.0 billion in losses - conflict epicenter
+- **Top Affected Airports**: Istanbul (1,329 flights), Abu Dhabi (1,309 flights), Tehran Mehrabad (1,229 flights)
 
 ### Key Insights
 1. **Hub Dependency Risk**: 70% of losses concentrated in 5 Gulf countries, exposing vulnerability of hub-and-spoke models
