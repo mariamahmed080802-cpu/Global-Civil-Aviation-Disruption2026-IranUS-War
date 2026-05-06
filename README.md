@@ -1,9 +1,9 @@
 # Global Civil Aviation Disruption Analysis: 2026 Iran-US War Impact
 
 <img width="1301" height="735" alt="image" src="https://github.com/user-attachments/assets/616bb0db-46d2-4937-aae8-35d3ae27aa02" />
-<img width="1530" height="723" alt="image" src="https://github.com/user-attachments/assets/80908af0-99e8-4ab9-8eb7-24ad9ed29ff3" />
 <img width="1317" height="733" alt="image" src="https://github.com/user-attachments/assets/268efd30-13b2-44ad-b01a-56a9889a09c6" />
 <img width="1308" height="738" alt="image" src="https://github.com/user-attachments/assets/7b9f3364-4ddb-4dff-90db-8799dbc595a6" />
+<img width="1530" height="723" alt="image" src="https://github.com/user-attachments/assets/80908af0-99e8-4ab9-8eb7-24ad9ed29ff3" />
 
 ## Introduction
 
